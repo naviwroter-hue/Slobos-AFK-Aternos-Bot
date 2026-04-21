@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friends_server-3rro.aternos.me",
+    "ip": "driftfish.aternos.host:56611",
     "port":  56611,
     "version": "",
     "try-creative": false
